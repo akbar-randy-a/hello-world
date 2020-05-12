@@ -1,4 +1,4 @@
 # hello-world
 
-<u> Percobaan pertama, lagi belajar ya </u>
+Percobaan pertama, <b> lagi belajar ya </b>
 
